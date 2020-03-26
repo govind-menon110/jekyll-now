@@ -3,10 +3,10 @@
 #
 theme: jekyll-theme-architect
 # Name of your site (displayed in the header)
-name: Govind Menon
+#name: Govind Menon
 
 # Short bio or description (displayed in the header)
-description: Cybersecurity Enthusiast, Indian Institute of Technology, Bombay.
+#description: Cybersecurity Enthusiast, Indian Institute of Technology, Bombay.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 #avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -16,7 +16,7 @@ description: Cybersecurity Enthusiast, Indian Institute of Technology, Bombay.
 #
 
 # Includes an icon in the footer for each username you enter
-footer-links:
+#footer-links:
   dribbble:
   email:
   facebook:
@@ -34,26 +34,26 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+#disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+#google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://govind-menon110.github.io/jekyll-now
+#url: http://govind-menon110.github.io/jekyll-now
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/jekyll-now"
+#baseurl: "/jekyll-now"
 
 #
 # !! You don't need to change any of the configuration flags below !!
 #
 
-permalink: /:title/
+#permalink: /:title/
 
 # The release of Jekyll Now that you're using
 # version: v1.2.0
@@ -73,12 +73,12 @@ permalink: /:title/
   #style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+#gems:
+  #- jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  #- jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
 # Exclude these files from your production _site
-exclude:
+#exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
