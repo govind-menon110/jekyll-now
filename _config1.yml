@@ -3,10 +3,10 @@
 #
 theme: jekyll-theme-architect
 # Name of your site (displayed in the header)
-#name: Govind Menon
+name: Govind Menon
 
 # Short bio or description (displayed in the header)
-#description: Cybersecurity Enthusiast, Indian Institute of Technology, Bombay.
+description: Cybersecurity Enthusiast, Indian Institute of Technology, Bombay.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 #avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
