@@ -1,6 +1,7 @@
 #
 # This file contains configuration flags to customize your site
 #
+theme: jekyll-theme-architect
 # Name of your site (displayed in the header)
 name: Govind Menon
 
@@ -83,5 +84,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-theme: jekyll-theme-architect
